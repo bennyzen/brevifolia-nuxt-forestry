@@ -25,7 +25,7 @@ sections:
 - type: heading
   label: Config
 upload_dir: static
-public_path: "/media"
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
