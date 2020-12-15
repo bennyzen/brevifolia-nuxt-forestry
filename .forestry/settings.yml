@@ -32,7 +32,7 @@ file_template: ":filename:"
 build:
   preview_output_directory: ".nuxt"
   install_dependencies_command: yarn install
-  preview_docker_image: gerardojunior/nuxtjs
-  mount_path: "/src"
+  preview_docker_image: node
+  mount_path: "/home/node/app"
   working_dir: "/srv"
   instant_preview_command: yarn forestry-preview
