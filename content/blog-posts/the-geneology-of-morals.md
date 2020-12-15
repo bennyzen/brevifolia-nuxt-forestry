@@ -12,7 +12,9 @@ So all respect to the good spirits that may govern in these historians of morali
 
 # “What, from an etymological perspective, do the meanings of “Good” as manifested in different languages really mean?”
 
-We see right away that this initial derivation already contains all the typical characteristics of the idiosyncrasies of English psychologists—we have “usefulness,” “forgetting,” “habit,” and finally “error,” all as the foundation for an evaluation in which the higher man up to this time has taken pride, as if it were a sort of privilege of men generally. This pride should be humbled, this evaluation of worth emptied of value. Has that been achieved?
+We see right away that this initial derivation already contains all the typical characteristics of the idiosyncrasies of English psychologists—we have “usefulness,” “forgetting,” “habit,” and finally “error,” all as the foundation for an evaluation in which the higher man up to this time has taken pride, as if it were a sort of privilege of men generally. This pride should be humbled, this evaluation of worth emptied of value. Has that been achieved? 
+
+**fasdfasdfadsf**
 
 ![](/ruslan-bardash-g83y6do219w-unsplash.jpg)
 
