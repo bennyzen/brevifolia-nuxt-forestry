@@ -1,8 +1,8 @@
 ---
-author: Friedrich Nietzsche
-title: The Geneology of Morals
+author: Walt Whitman
+title: The Geneology of
 slug: the-geneology-of-morals
-date: 2019-08-19T07:00:00Z
+date: 2019-08-19T09:00:00+02:00
 hero_image: "/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
 
 ---
